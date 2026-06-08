@@ -12,9 +12,9 @@ Sobre Mim
 ---
 
 Áreas de Interesse e Tecnologias
-*  **Ferramentas*: Git, GitHub, VS Code
-*  **Linguagens/Tecnologias*: Python, HTML, CSS, Javascript
-*  **Áreas*: Desenvolvimento Web, Engenharia de Software, Tecnologia da Informação
+*  *Ferramentas*: Git, GitHub, VS Code
+*  *Linguagens/Tecnologias*: Python, HTML, CSS, Javascript
+*  *Áreas*: Desenvolvimento Web, Engenharia de Software, Tecnologia da Informação
 
 ---
 Contacto Profissional
