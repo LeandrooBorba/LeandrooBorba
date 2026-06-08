@@ -21,5 +21,5 @@ Contacto Profissional
 
 Fique à vontade para entrar em contacto comigo para parcerias, estudos ou oportunidades!
 
-* **E-mail*: borbaleandro26@gmail.com
-* **LinkedIn*: https://www.linkedin.com/in/leandro-borba-6676383bb/?skipRedirect=true
+* *E-mail*: borbaleandro26@gmail.com
+* *LinkedIn*: https://www.linkedin.com/in/leandro-borba-6676383bb/?skipRedirect=true
