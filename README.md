@@ -1,16 +1,25 @@
-## Hi there 👋
+Olá, me chamo  Leandro Borba 
 
-<!--
-**LeandrooBorba/LeandrooBorba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante da CESAR School / Ciência da computação
 
-Here are some ideas to get you started:
+---
+Sobre Mim 
+*  Estou a iniciar a minha jornada no mundo da tecnologia e da programação.
+*  Atualmente, os meus principais focos de estudo são: Aprofundar mais o meu conhecimento em HTML, CSS, JavaScript; aprender mais sobre lógica de
+   programação e banco de dados.
+*  Tenho grande interesse em resolver problemas através do código e desenvolver projetos práticos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Áreas de Interesse e Tecnologias
+*  **Ferramentas*: Git, GitHub, VS Code
+*  **Linguagens/Tecnologias*: Python, HTML, CSS, Javascript
+*  **Áreas*: Desenvolvimento Web, Engenharia de Software, Tecnologia da Informação
+
+---
+Contacto Profissional
+
+Fique à vontade para entrar em contacto comigo para parcerias, estudos ou oportunidades!
+
+* **E-mail*: borbaleandro26@gmail.com
+* **LinkedIn*: https://www.linkedin.com/in/leandro-borba-6676383bb/?skipRedirect=true
