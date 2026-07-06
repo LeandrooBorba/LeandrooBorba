@@ -1,6 +1,6 @@
 # Olá, me chamo Leandro Borba
 
-### Estudante de Ciência da Computação na CESAR School
+### Estudante de Ciência da Computação na UFPE
 
 ---
 
